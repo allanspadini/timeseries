@@ -1,2 +1,2 @@
-# timeseries
-Curso de séries temporais: previsão
+# Séries temporais
+Curso de séries temporais: Previsão
